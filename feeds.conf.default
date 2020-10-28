@@ -15,4 +15,3 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 # passwall依赖
 src-git small https://github.com/kenzok8/small
-# src-git fndsz https://github.com/fndsz/multiwan
